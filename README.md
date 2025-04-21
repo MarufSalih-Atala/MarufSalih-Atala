@@ -1,5 +1,6 @@
-<div align="center">
-  <img height="200" src="https://github.com/MarufSalih-Atala/MarufSalih-Atala/blob/main/MarufSalihAtalaBannerr.png?raw=true"  />
+<p align="center">
+  <img src="https://github.com/MarufSalih-Atala/MarufSalih-Atala/blob/main/MarufSalihAtalaBannerr.png?raw=true"
+    width="80%">
 </div>
 
 <h1 align="center">Hi 👋, I'm Maruf Salih ATALA</h1>
