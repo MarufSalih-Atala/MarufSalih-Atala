@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **salihatala3@gmail.com**
 
-- 📄 Know about my experiences [STEM Student, AI enthusiast, TÜBİTAK Award Winner](STEM Student, AI enthusiast, TÜBİTAK Award Winner)
+- 📄 Know about my experiences [STEM Student, AI enthusiast, TÜBİTAK Award Winner]
 
 - ⚡ Fun fact **No Caffeine, No Gain**
 
