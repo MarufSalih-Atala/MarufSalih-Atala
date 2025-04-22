@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub Portfolio](GitHub Portfolio)
 
-- 📝 I regularly write articles on [AI and STEM Education](AI and STEM Education)
+- 📝 I regularly write articles on [AI and STEM Education]
 
 - 💬 Ask me about **AI, Python, TÜBİTAK Projects**
 
